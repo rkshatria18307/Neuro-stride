@@ -1,0 +1,46 @@
+{
+  "note": "No public bulk API confirmed",
+  "attempts": [
+    {
+      "query": "stroke artificial intelligence rehabilitation",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "query": "stroke pose estimation",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "query": "stroke Kinect rehabilitation",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "query": "stroke exercise prescription artificial intelligence",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "query": "stroke computer vision rehabilitation",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "query": "stroke markerless motion",
+      "http_status": 200,
+      "bytes": 75,
+      "snippet": "{\"status\" : \"error\", \"errormessage\" : \"Error code: header value undefined\"}"
+    },
+    {
+      "id": "CRD42022323670",
+      "url": "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022323670",
+      "http_status": 406
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "hit_count": 31381,
+  "retrieved": 50,
+  "query": "stroke AND (Kinect OR OpenPose OR MediaPipe OR \"pose estimation\" OR markerless OR \"computer vision\" OR \"depth camera\") AND (rehabilitation OR kinematics OR assessment)",
+  "pages": 1,
+  "note": "pagination blocked by 401/429; first page only"
+}

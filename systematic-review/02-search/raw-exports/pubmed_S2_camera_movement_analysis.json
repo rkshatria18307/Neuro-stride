@@ -1,0 +1,10 @@
+{
+  "strategy": "S2_camera_movement_analysis",
+  "query": "(\"Stroke\"[Mesh] OR stroke[tiab] OR \"cerebrovascular accident\"[tiab] OR hemiplegi*[tiab] OR \"post-stroke\"[tiab] OR poststroke[tiab]) AND (Kinect[tiab] OR \"Azure Kinect\"[tiab] OR OpenPose[tiab] OR MediaPipe[tiab] OR BlazePose[tiab] OR \"pose estimation\"[tiab] OR markerless[tiab] OR \"computer vision\"[tiab] OR \"depth camera\"[tiab] OR \"RGB-D\"[tiab] OR RGBD[tiab] OR webcam[tiab] OR \"video-based\"[tiab] OR \"vision-based\"[tiab] OR \"camera-based\"[tiab] OR \"skeleton tracking\"[tiab] OR \"motion capture\"[tiab] OR \"movement analysis\"[tiab] OR \"movement assessment\"[tiab] OR Theia3D[tiab] OR RealSense[tiab] OR \"Leap Motion\"[tiab] OR Orbbec[tiab] OR (monocular[tiab] AND pose[tiab])) AND (rehabilitat*[tiab] OR physiotherapy[tiab] OR \"physical therapy\"[tiab] OR assessment[tiab] OR validity[tiab] OR reliability[tiab] OR kinematics[tiab] OR gait[tiab] OR \"upper limb\"[tiab] OR \"upper extremity\"[tiab] OR \"motor function\"[tiab])",
+  "hit_count": 896,
+  "retrieved": 895,
+  "capped": false,
+  "webenv": null,
+  "querykey": null,
+  "retrieved_at_utc": "2026-10-15T08:44:31.863955+00:00"
+}

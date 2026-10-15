@@ -1,0 +1,37 @@
+{
+  "note": "These counts are DEDUPLICATED IDENTIFIED RECORDS after keyword tagging. They are NOT screened-in study counts.",
+  "raw_rows_by_source": {
+    "PubMed": 2198,
+    "EuropePMC": 1704,
+    "OpenAlex": 150,
+    "ClinicalTrials.gov": 371,
+    "SemanticScholar": 0,
+    "Crossref": 600
+  },
+  "crossref_rows_dropped_as_offtopic_sample": 542,
+  "rows_entering_dedup": 4481,
+  "deduplicated_records": 2547,
+  "with_doi": 2114,
+  "with_pmid": 2032,
+  "with_nct": 371,
+  "keyword_domain_counts": {
+    "ai_stroke_other": 112,
+    "trial_registry": 370,
+    "unclear_or_offtopic_keyword": 240,
+    "stroke_other": 812,
+    "camera_movement_analysis": 489,
+    "review_overlap_candidate": 381,
+    "both_ai_or_rx_and_camera": 138,
+    "ai_exercise_prescription": 5
+  },
+  "keyword_design_token_counts": {
+    "unspecified": 550,
+    "intervention_token": 292,
+    "trial_registration": 371,
+    "review": 698,
+    "rct_token": 210,
+    "protocol_or_registration": 120,
+    "measurement_token": 306
+  },
+  "records_missing_doi_and_pmid_and_nct": 15
+}

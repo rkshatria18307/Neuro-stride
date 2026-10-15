@@ -1,0 +1,5 @@
+{
+  "hit_count": 678,
+  "retrieved": 700,
+  "query": "(TITLE_ABS:(stroke OR hemiplegi*) AND TITLE_ABS:(Kinect OR OpenPose OR MediaPipe OR \"pose estimation\" OR markerless OR \"computer vision\" OR \"depth camera\" OR \"camera-based\" OR \"video-based\" OR \"vision-based\" OR \"motion capture\") AND TITLE_ABS:(rehabilitat* OR assessment OR kinematics OR physiotherapy OR gait))"
+}

@@ -1,0 +1,8 @@
+{
+  "hit_count": 371,
+  "retrieved": 371,
+  "query": {
+    "query.cond": "stroke",
+    "query.term": "artificial intelligence OR machine learning OR pose estimation OR Kinect OR computer vision OR camera-based OR markerless"
+  }
+}
