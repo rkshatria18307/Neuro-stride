@@ -1,0 +1,5 @@
+{
+  "hit_count": 2807,
+  "retrieved": 1000,
+  "query": "(TITLE_ABS:(stroke OR hemiplegi* OR \"cerebrovascular accident\") AND TITLE_ABS:(\"artificial intelligence\" OR \"machine learning\" OR \"pose estimation\" OR Kinect OR markerless OR \"exercise prescription\" OR \"computer vision\") AND (REVIEW:\"Systematic Review\" OR TITLE_ABS:\"systematic review\" OR TITLE_ABS:\"scoping review\" OR TITLE_ABS:\"meta-analysis\"))"
+}

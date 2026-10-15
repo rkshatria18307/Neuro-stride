@@ -1,0 +1,127 @@
+{
+  "run_started_utc": "2026-10-15T08:44:31.863955+00:00",
+  "sources": [
+    {
+      "source": "PubMed",
+      "strategy": "S0_novelty_reviews",
+      "hit_count": 530,
+      "retrieved": 529,
+      "capped": false
+    },
+    {
+      "source": "PubMed",
+      "strategy": "S1_ai_exercise_prescription",
+      "hit_count": 525,
+      "retrieved": 525,
+      "capped": false
+    },
+    {
+      "source": "PubMed",
+      "strategy": "S2_camera_movement_analysis",
+      "hit_count": 896,
+      "retrieved": 895,
+      "capped": false
+    },
+    {
+      "source": "PubMed",
+      "strategy": "S3_ai_camera_intersection",
+      "hit_count": 192,
+      "retrieved": 192,
+      "capped": false
+    },
+    {
+      "source": "PubMed",
+      "strategy": "S4_cochrane_subset",
+      "hit_count": 57,
+      "retrieved": 57,
+      "capped": false
+    },
+    {
+      "source": "EuropePMC",
+      "strategy": "E0_reviews",
+      "hit_count": 2807,
+      "retrieved": 1000
+    },
+    {
+      "source": "EuropePMC",
+      "strategy": "E1_ai_exercise",
+      "hit_count": 4,
+      "retrieved": 4
+    },
+    {
+      "source": "EuropePMC",
+      "strategy": "E2_camera",
+      "hit_count": 678,
+      "retrieved": 700
+    },
+    {
+      "source": "OpenAlex",
+      "strategy": "O0_reviews",
+      "hit_count": null,
+      "retrieved": 50
+    },
+    {
+      "source": "OpenAlex",
+      "strategy": "O1_ai_exercise",
+      "hit_count": null,
+      "retrieved": 50
+    },
+    {
+      "source": "OpenAlex",
+      "strategy": "O2_camera",
+      "hit_count": null,
+      "retrieved": 50
+    },
+    {
+      "source": "Crossref",
+      "strategy": "C0_reviews",
+      "hit_count": 1388345,
+      "retrieved": 200
+    },
+    {
+      "source": "Crossref",
+      "strategy": "C1_ai_ex",
+      "hit_count": 5469553,
+      "retrieved": 200
+    },
+    {
+      "source": "Crossref",
+      "strategy": "C2_camera",
+      "hit_count": 8273153,
+      "retrieved": 200
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "strategy": "T1",
+      "hit_count": 371,
+      "retrieved": 371
+    },
+    {
+      "source": "SemanticScholar",
+      "strategy": "SS0",
+      "hit_count": null,
+      "retrieved": 0,
+      "http_status": 429
+    },
+    {
+      "source": "SemanticScholar",
+      "strategy": "SS1",
+      "hit_count": null,
+      "retrieved": 0,
+      "http_status": 429
+    },
+    {
+      "source": "SemanticScholar",
+      "strategy": "SS2",
+      "hit_count": null,
+      "retrieved": 0,
+      "http_status": 429
+    },
+    {
+      "source": "PROSPERO",
+      "access": "limited_html_only"
+    }
+  ],
+  "run_finished_utc": "2026-10-15T08:46:45.209892+00:00",
+  "raw_record_rows": 5023
+}

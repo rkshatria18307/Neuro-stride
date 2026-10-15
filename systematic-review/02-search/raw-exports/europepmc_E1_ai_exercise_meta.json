@@ -1,0 +1,5 @@
+{
+  "hit_count": 4,
+  "retrieved": 4,
+  "query": "(TITLE_ABS:(stroke OR hemiplegi*) AND TITLE_ABS:(\"exercise prescription\" OR \"personalized exercise\" OR \"adaptive exercise\" OR \"home exercise\" OR \"exercise program\") AND TITLE_ABS:(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR \"neural network\" OR \"reinforcement learning\" OR \"AI-assisted\"))"
+}

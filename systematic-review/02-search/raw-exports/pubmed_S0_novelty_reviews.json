@@ -1,0 +1,10 @@
+{
+  "strategy": "S0_novelty_reviews",
+  "query": "(\"Stroke\"[Mesh] OR stroke[tiab] OR \"cerebrovascular accident\"[tiab] OR hemiplegi*[tiab] OR \"post-stroke\"[tiab] OR poststroke[tiab]) AND (\"Artificial Intelligence\"[Mesh] OR \"Machine Learning\"[Mesh] OR \"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"computer vision\"[tiab] OR \"pose estimation\"[tiab] OR Kinect[tiab] OR markerless[tiab] OR \"exercise prescription\"[tiab] OR \"personalized exercise\"[tiab] OR \"personalised exercise\"[tiab] OR \"adaptive exercise\"[tiab] OR \"video-based\"[tiab] OR \"vision-based\"[tiab] OR \"camera-based\"[tiab] OR \"motion capture\"[tiab]) AND (\"systematic review\"[pt] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"scoping review\"[tiab] OR \"systematic review\"[tiab] OR \"meta-analysis\"[tiab] OR \"umbrella review\"[tiab] OR \"mapping review\"[tiab] OR \"rapid review\"[tiab])",
+  "hit_count": 530,
+  "retrieved": 529,
+  "capped": false,
+  "webenv": null,
+  "querykey": null,
+  "retrieved_at_utc": "2026-10-15T08:44:31.863955+00:00"
+}

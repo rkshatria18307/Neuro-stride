@@ -1,0 +1,10 @@
+{
+  "strategy": "S3_ai_camera_intersection",
+  "query": "(\"Stroke\"[Mesh] OR stroke[tiab] OR hemiplegi*[tiab] OR \"post-stroke\"[tiab] OR poststroke[tiab]) AND (\"Artificial Intelligence\"[Mesh] OR \"Machine Learning\"[Mesh] OR \"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network*\"[tiab] OR \"pose estimation\"[tiab] OR OpenPose[tiab] OR MediaPipe[tiab]) AND (Kinect[tiab] OR camera[tiab] OR \"computer vision\"[tiab] OR video[tiab] OR markerless[tiab] OR \"RGB\"[tiab] OR webcam[tiab] OR \"depth camera\"[tiab]) AND (rehabilitat*[tiab] OR physiotherapy[tiab] OR assessment[tiab] OR exercise[tiab] OR kinematics[tiab])",
+  "hit_count": 192,
+  "retrieved": 192,
+  "capped": false,
+  "webenv": null,
+  "querykey": null,
+  "retrieved_at_utc": "2026-10-15T08:44:31.863955+00:00"
+}

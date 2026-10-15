@@ -1,0 +1,10 @@
+{
+  "strategy": "S4_cochrane_subset",
+  "query": "(\"Stroke\"[Mesh] OR stroke[tiab]) AND (\"virtual reality\"[tiab] OR Kinect[tiab] OR \"artificial intelligence\"[tiab] OR \"exercise\"[tiab] OR \"telerehabilitation\"[tiab] OR \"video game\"[tiab]) AND \"Cochrane Database Syst Rev\"[ta]",
+  "hit_count": 57,
+  "retrieved": 57,
+  "capped": false,
+  "webenv": null,
+  "querykey": null,
+  "retrieved_at_utc": "2026-10-15T08:44:31.863955+00:00"
+}
